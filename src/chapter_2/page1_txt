@@ -1,0 +1,17 @@
+Caches, in the context of computer systems, refer to a type of hardware or software
+ component used to store frequently accessed data for quick retrieval. Caches are
+ utilized to reduce the latency or delay in accessing data from slower storage
+ or memory systems.
+
+
+In a computer system, there are different levels of caches, typically organized
+in a hierarchy. The levels are often denoted as L1, L2, L3, and so on. The cache
+closest to the processor is typically the L1 cache, followed by the L2 cache,
+and then the L3 cache. The purpose of this hierarchy is to provide faster access
+to data that the processor frequently needs.
+
+
+   Caches work based on the principle of locality, which suggests that if a particular
+ piece of data is accessed once, it is likely to be accessed again in the near future.
+ When the processor requests data, the cache checks if the data is already present in its storage. If it is, this is known as a cache hit, and the data is quickly retrieved. If the data is not present, it is known as a cache miss, and the cache must fetch the data from a slower memory or storage system.
+
