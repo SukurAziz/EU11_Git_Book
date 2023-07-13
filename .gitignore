@@ -2,5 +2,9 @@
 *.iml
 out
 *.xml
+/out
+
+# comment with hashtag
+
 secret.txt
 fun.txt
